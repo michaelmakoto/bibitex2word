@@ -7,7 +7,9 @@ A Word macro that adds papers to Word's built-in references just from their DOI.
 Works in Word for Windows and Mac. **English version below.**
 
 
-![demo](demo.gif)
+<p align="center">
+  <img src="./demo.gif">
+</p>
 
 ---
 
