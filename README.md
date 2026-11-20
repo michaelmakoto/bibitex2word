@@ -6,7 +6,8 @@ Windows と Mac の Word で使えます。
 A Word macro that adds papers to Word's built-in references just from their DOI.
 Works in Word for Windows and Mac. **English version below.**
 
-デモ動画 / Demo video: [demo.mp4](demo.mp4)
+デモ動画 / Demo: 
+![demo](demo.gif)
 
 ---
 
